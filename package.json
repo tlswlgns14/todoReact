@@ -21,7 +21,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "https://tlswlgns14.github.io/todoReactt/"
+    "homepage": "https://github.com/tlswlgns14/todoReact"
   },
   "eslintConfig": {
     "extends": [
